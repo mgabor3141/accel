@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mgabor",
+    "longName": "AccelTool",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bg.png",
+                "name": "IMAGE_BG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "AccelTool",
+    "uuid": "8dd4df35-7d05-41a3-881c-f250fdfef6b9",
+    "versionCode": 1,
+    "versionLabel": "1.3",
+    "watchapp": {
+        "watchface": false
+    }
+}

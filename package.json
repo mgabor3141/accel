@@ -1,0 +1,37 @@
+{
+    "author": "mgabor",
+    "dependencies": {},
+    "keywords": [],
+    "name": "acceltool",
+    "pebble": {
+        "displayName": "AccelTool",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/bg.png",
+                    "name": "IMAGE_BG",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/menuicon.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU_ICON",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "8dd4df35-7d05-41a3-881c-f250fdfef6b9",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.7.0"
+}
